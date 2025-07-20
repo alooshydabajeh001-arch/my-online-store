@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Noise-Cancelling Headphones",
+    "price": "$99.99",
+    "image": "https://example.com/headphones.jpg",
+    "link": "https://your-affiliate-link.com/product/123"
+  },
+  {
+    "name": "Smart Fitness Watch",
+    "price": "$59.99",
+    "image": "https://example.com/watch.jpg",
+    "link": "https://your-affiliate-link.com/product/456"
+  }
+]
